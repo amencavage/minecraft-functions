@@ -1,0 +1,1 @@
+summon bat ~ ~ ~ {Owner:toktok,Passengers:[{id:tnt,Fuse:120}]}

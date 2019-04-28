@@ -1,0 +1,10 @@
+treehouse
+30 63 672 (landing)
+34 53 674 (ground entrance)
+
+old village (landing)
+-177 53 573
+
+underground lair
+-154 48 565 (landing)
+

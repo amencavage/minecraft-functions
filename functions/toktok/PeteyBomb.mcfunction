@@ -1,0 +1,1 @@
+summon ocelot ~ ~ ~ {Owner:toktok,CatType:2,NoAI:0,Passengers:[{id:tnt,Fuse:127}]}

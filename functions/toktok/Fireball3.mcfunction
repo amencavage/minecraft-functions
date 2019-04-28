@@ -1,0 +1,1 @@
+summon Fireball ~ ~-1 ~ {ExplosionPower:50,direction:[0.0,-4.0,0.0],Motion:[0.0,-4.0,0.0]}

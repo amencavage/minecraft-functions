@@ -1,0 +1,11 @@
+setblock ~1 ~ ~ minecraft:stone_brick_stairs 8
+setblock ~2 ~1 ~ minecraft:stone_brick_stairs 8
+setblock ~3 ~2 ~ minecraft:stone_brick_stairs 8
+setblock ~4 ~3 ~ minecraft:stone_brick_stairs 8
+setblock ~5 ~4 ~ minecraft:stone_brick_stairs 8
+setblock ~6 ~5 ~ minecraft:stone_brick_stairs 8
+setblock ~7 ~6 ~ minecraft:stone_brick_stairs 8
+setblock ~8 ~7 ~ minecraft:stone_brick_stairs 8
+setblock ~9 ~8 ~ minecraft:stone_brick_stairs 8
+setblock ~10 ~9 ~ minecraft:stone_brick_stairs 8
+setblock ~11 ~10 ~ minecraft:stone_brick_stairs 8

@@ -1,0 +1,74 @@
+home teleporter room:
+13 36 342
+
+
+341 71 418
+341 70 446
+360 70 418
+
+344 84 442
+
+middle of cavern:
+-47 36 330
+
+testforblock <x> <y> <z> <TileName>
+
+/testforblock -63 59 305 cobblestone
+/testforblock -63 59 307 air
+
+/fill -6 36 337 10 38 333 stone
+/fill -6 36 337 10 38 333 air
+
+/testforblock -11 69 304 air
+/setblock -11 69 304 cobblestone
+
+lava gate floor left block
+-11 72 325
+
+lava gate floor right block
+-12 72 325
+
+lava gate bottom left block
+/testforblock -11 69 325 air
+
+lava gate bottom right block
+/testforblock -12 69 325 air
+
+vanish gate entrance
+-4 36 337
+
+vanish gate block 1
+/setblock -4 36 336 cobblestone
+vanish gate block 2
+/setblock -4 37 336 cobblestone
+vanish gate block 3
+/setblock -3 36 336 cobblestone
+vanish gate block 4
+/setblock -3 37 336 cobblestone
+vanish gate block 5
+/setblock -4 36 335 cobblestone
+vanish gate block 6
+/setblock -4 37 335 cobblestone
+vanish gate block 7
+/setblock -3 36 335 cobblestone
+vanish gate block 8
+/setblock -3 37 335 cobblestone
+
+vanish gate block 1
+/setblock -4 36 336 air
+vanish gate block 2
+/setblock -4 37 336 air
+vanish gate block 3
+/setblock -3 36 336 air
+vanish gate block 4
+/setblock -3 37 336 air
+vanish gate block 5
+/setblock -4 36 335 air
+vanish gate block 6
+/setblock -4 37 335 air
+vanish gate block 7
+/setblock -3 36 335 air
+vanish gate block 8
+/setblock -3 37 335 air
+
+/setblock ~ ~ ~ ~-1 ~ ~1 air
